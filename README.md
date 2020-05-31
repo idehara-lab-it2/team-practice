@@ -1,1 +1,1 @@
-# team-practice
+# チーム練習
